@@ -1,5 +1,10 @@
 # Graph Ascent: Windows Server Modernization
 
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%20%7C%207%2B-blue?style=flat&logo=powershell)
+![Platform](https://img.shields.io/badge/Platform-Windows%20Server%202022%20%7C%202025-0078D6?style=flat&logo=windows)
+![Cloud](https://img.shields.io/badge/Azure-Arc%20Enabled-0089D6?style=flat&logo=microsoftazure)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat)
+
 > **Legacy Power | Modern Agility**
 > *Hybrid Infrastructure, Optimized*
 
